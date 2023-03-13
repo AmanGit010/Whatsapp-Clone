@@ -1,0 +1,4 @@
+#Tue Mar 14 00:09:15 IST 2023
+base.0=D\:\\Flutter Projects\\WhatsApp-UI\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
